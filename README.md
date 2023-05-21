@@ -2,7 +2,7 @@
 Channel-Coded MIMO-OFDM System Simulation
 
 
-1. Simulation of 2x2 MIMO System with different modulation schemes, Chennel Models and Decoding Methods: 
+1. Simulation of 2x2 MIMO System with different modulation schemes, Channel Models and Decoding Methods: 
         
         Modulation Schemes 
           1. 16-QAM
