@@ -18,5 +18,5 @@ Channel-Coded MIMO-OFDM System Simulation
 
 2. Simulation of communication system utilizing convolutional encoder and a Viterbi decoder to encode and decode the transmitted data, respectively. Evaluating its      performance by measuring the error rate in the presence of noise.
 
-3. Simulation of an 8x8 MIMO system using spatial multiplexing. evaluating the performance of the system in terms of BER and SNR, and spectral efficiency. Utilizing    zero-forcing detection and plots of the transmitted and received signals, the channel matrix, and the BER vs. SNR curve.
+3. Simulation of an 8x8 MIMO system using spatial multiplexing. Evaluating the performance of the system in terms of BER and SNR, and spectral efficiency. Utilizing    zero-forcing detection and plots of the transmitted and received signals, the channel matrix, and the BER vs. SNR curve.
 
