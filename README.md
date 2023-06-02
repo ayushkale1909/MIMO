@@ -22,5 +22,7 @@ Channel-Coded MIMO-OFDM System Simulation
 
 2x2 MIMO Spatial Multiplexing Simulation with BPSK and Zero-Forcing Equalization
 
-                       Spatial Multiplexing MATLAB code contains simulation of 2x2 MIMO system with spatial multiplexing. 
-                       The channel uses  Binary Phase Shift Keying (BPSK) as the modulation scheme in the simulation and the channel is Additive White Gaussian                              Noise (AWGN) channel model with Rayleigh fading. The BER with various SNRs is used to evaluate this system's performance.
+    Spatial Multiplexing MATLAB code contains simulation of 2x2 MIMO system with spatial multiplexing. 
+    The channel uses  Binary Phase Shift Keying (BPSK) as the modulation scheme in the simulation and 
+    the channel is Additive White Gaussian Noise (AWGN) channel model with Rayleigh fading. The BER with 
+    various SNRs is used to evaluate this system's performance.
