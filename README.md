@@ -26,3 +26,14 @@ Channel-Coded MIMO-OFDM System Simulation
     The channel uses  Binary Phase Shift Keying (BPSK) as the modulation scheme in the simulation and 
     the channel is Additive White Gaussian Noise (AWGN) channel model with Rayleigh fading. The BER with 
     various SNRs is used to evaluate this system's performance.
+
+
+
+Simulation of Commonly used modulation schemes in the context of Visible Light Communication Systems.   
+
+        1. Pulse Position Modulation (PPM)  
+        2. Pulse Amplitude Modulation 
+        3. OFDM. No loss of data and noise is assumed. 
+
+The code contains plotting of the transmitted signal , Modulation and Demodulation of the binary signal used 
+and Comparision of  original and recevied signals. 
