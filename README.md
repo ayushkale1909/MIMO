@@ -28,7 +28,6 @@ Channel-Coded MIMO-OFDM System Simulation
     various SNRs is used to evaluate this system's performance.
 
 
-
 Simulation of Commonly used modulation schemes in the context of Visible Light Communication Systems.   
 
         1. Pulse Position Modulation (PPM)  
@@ -37,3 +36,17 @@ Simulation of Commonly used modulation schemes in the context of Visible Light C
 
 The code contains plotting of the transmitted signal , Modulation and Demodulation of the binary signal used 
 and Comparision of  original and recevied signals. 
+
+
+Cognitive Radio System Simulation
+
+        Quadrature Amplitude Modulation (QAM) signal with noise is used for energy detection and spectrum sensing. Uses an arbitrary threshold  to determine the           presence of a primary user. . It calculates the probability of detection for different threshold values and SNR values and then plots this probability as         a function of the detection threshold and SNR.   
+        
+Dynamic Spectrum Access
+
+        Simulation a dynamic spectrum access system, where it iterates over a list of frequencies and switches its operating frequency based on the presence of           primary users.
+        1. If a primary user is detected at the current frequency, the system switches to the next frequency in the list. 
+        2. If a primary user is detected at all frequencies, the system throws an error.
+        3.  If no primary user is detected at the current frequency, the system identifies it as a spectrum hole and continues transmission at this frequency.
+        
+       
