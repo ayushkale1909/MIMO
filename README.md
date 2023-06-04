@@ -44,7 +44,8 @@ Cognitive Radio System Simulation
         
 Dynamic Spectrum Access
 
-        Simulation a dynamic spectrum access system, where it iterates over a list of frequencies and switches its operating frequency based on the presence of           primary users.
+  Simulation a dynamic spectrum access system, where it iterates over a list of frequencies and switches its operating frequency based on the presence of           primary users.
+        
         1. If a primary user is detected at the current frequency, the system switches to the next frequency in the list. 
         2. If a primary user is detected at all frequencies, the system throws an error.
         3.  If no primary user is detected at the current frequency, the system identifies it as a spectrum hole and continues transmission at this frequency.
