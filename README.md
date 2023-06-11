@@ -1,4 +1,4 @@
-#H1 Header MIMO Channel-Coded OFDM System Simulation
+# MIMO Channel-Coded OFDM System Simulation
 This simulation presents the evaluation of a 2x2 and an 8x8 MIMO system with various modulation schemes, channel models, decoding methods, and performance measures.
 
 ## H2 Header Modulation Schemes
