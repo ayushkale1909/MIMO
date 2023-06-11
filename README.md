@@ -1,7 +1,7 @@
-#MIMO Channel-Coded OFDM System Simulation
+#H1 Header MIMO Channel-Coded OFDM System Simulation
 This simulation presents the evaluation of a 2x2 and an 8x8 MIMO system with various modulation schemes, channel models, decoding methods, and performance measures.
 
-##Modulation Schemes
+## H2 Header Modulation Schemes
 The simulation includes the following modulation schemes:
 
 16-QAM
@@ -18,7 +18,7 @@ Nakagami Fading Channel
 Communication System
 A convolutional encoder and a Viterbi decoder are used to encode and decode the transmitted data. The performance is measured by evaluating the error rate in the presence of noise.
 
-##8x8 MIMO System
+## H2 Header 8x8 MIMO System
 The simulation includes an 8x8 MIMO system employing spatial multiplexing. The performance is evaluated in terms of BER, SNR, and spectral efficiency. Zero-forcing detection is utilized, with plots of the transmitted and received signals, the channel matrix, and the BER vs. SNR curve included.
 
 ##2x2 MIMO Spatial Multiplexing
