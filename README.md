@@ -21,7 +21,7 @@ A convolutional encoder and a Viterbi decoder are used to encode and decode the 
 ## 8x8 MIMO System
 The simulation includes an 8x8 MIMO system employing spatial multiplexing. The performance is evaluated in terms of BER, SNR, and spectral efficiency. Zero-forcing detection is utilized, with plots of the transmitted and received signals, the channel matrix, and the BER vs. SNR curve included.
 
-##2x2 MIMO Spatial Multiplexing
+## 2x2 MIMO Spatial Multiplexing
 This simulation features a 2x2 MIMO system with spatial multiplexing. The Binary Phase Shift Keying (BPSK) modulation scheme is used under an Additive White Gaussian Noise (AWGN) channel model with Rayleigh fading. The BER under various SNRs is used to evaluate the system's performance.
 
 ## Visible Light Communication Systems
