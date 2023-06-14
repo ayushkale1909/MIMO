@@ -4,18 +4,21 @@ This simulation presents the evaluation of a 2x2 and an 8x8 MIMO system with var
 ## Modulation Schemes
 The simulation includes the following modulation schemes:
 
-16-QAM
-64-QAM
-256-QAM
-BPSK
-QPSK
-Channel Models
+    1. 16-QAM
+    2. 64-QAM
+    3. 256-QAM
+    4. BPSK
+    5. QPSK
+
+### Channel Models
+
 The simulation features these channel models:
 
-Random Flat Fading Channel
-Rayleigh Fading Channel
-Nakagami Fading Channel
-Communication System
+    1. Random Flat Fading Channel
+    2. Rayleigh Fading Channel
+    3. Nakagami Fading Channel
+
+### Communication System
 A convolutional encoder and a Viterbi decoder are used to encode and decode the transmitted data. The performance is measured by evaluating the error rate in the presence of noise.
 
 ## 8x8 MIMO System
